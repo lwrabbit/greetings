@@ -1,5 +1,5 @@
 package greetings
 
 const (
-	HI  = "Hi!"
+	HI  = "Hi"
 )

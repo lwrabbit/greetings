@@ -1,3 +1,3 @@
-module github.com/lwrabbit/greetings/v1
+module github.com/lwrabbit/greetings
 
 go 1.13
